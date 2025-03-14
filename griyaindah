@@ -41,34 +41,6 @@ https://etslive-v3-vidioooooo-com-tokenized.akamaized.net/drm/dash/17609_stream.
 https://etslive-v3-vidioooooo-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722268725~acl=/drm/dash/*~id=145649697~hmac=ff05b7fcadb6dcbc2e4b9d6c477735701eb15c451de083d7732b277b4f3f5e9b
 
 ========================================================================
-                               Live Indo
-========================================================================
-
-#EXTINF:-1 group-logo="https://anutv.xyz/gambar/bri.jpg",
-
-#EXTINF:0 tvg-logo="https://anutv.xyz/gambar/bri.jpg" group-title="Sports Indo",LIVE IDN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:0 tvg-logo="https://anutv.xyz/gambar/bri.jpg" group-title="Sports Indo",LIVE IDN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:0 tvg-logo="https://anutv.xyz/gambar/bri.jpg" group-title="Sports Indo",LIVE IDN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="" group-title="Sports Indo" tvg-logo="https://anutv.xyz/gambar/bri.jpg", INDOSIAR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-========================================================================
                                Nasional
 ========================================================================
 
@@ -88,22 +60,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://login.spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-phjaE0bkXev_5r5JXMb8X.png" group-title="Nasional",INDOSIAR Sport 1
-https://login.spmid.pw:443/play/qO0vmq6rLeAaqOd4crQEiMs5CHEMw0Q5pOtgGCOi9jvJnHM-I10kpXrmDaksTLcL
+#EXTINF:-1 xui-id="3" tvg-id="Indosiar - [Channel 78].id" tvg-name="INDOSIAR" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-phjaE0bkXev_5r5JXMb8X.png" group-title="Nasional", Indosiar Sport 1
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOqdUTh2U2pyo-jTU2HTdmcW
 
-#EXTINF:-1 xui-id="2663" tvg-id="" tvg-name="INDOSIAR NS" tvg-logo="https://login.spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-phjaE0bkXev_5r5JXMb8X.png" group-title="Nasional",INDOSIAR Sport 2
-https://login.spmid.pw:443/play/qO0vmq6rLeAaqOd4crQEiMs5CHEMw0Q5pOtgGCOi9js5_NYIvXZCiYNvxi5P8bXc
+#EXTINF:-1 xui-id="2663" tvg-id="" tvg-name="INDOSIAR NS" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-phjaE0bkXev_5r5JXMb8X.png" group-title="LOKAL NS", Indosiar Sport 2
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOrW5VyHkgwICc-hg0_as9Io
 
 #EXTINF:0 tvg-logo="https://iptvsystem.my.id/img/RCTI.png" group-title="Nasional",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="RCTI" tvg-logo="https://login.spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="Nasional",RCTI Sport 2
-https://login.spmid.pw:443/play/qO0vmq6rLeAaqOd4crQEiMs5CHEMw0Q5pOtgGCOi9jtDB0RK1N1MtJwM-Phy_peX
+#EXTINF:-1 xui-id="5" tvg-id="RCTI - [Channel 80].id" tvg-name="RCTI" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="Nasional",RCTI Sport 1
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOqdzyH9Ezy7XfSaKHuem_Mm
 
-#EXTINF:-1 xui-id="9507" tvg-id="" tvg-name="RCTI NS" tvg-logo="https://login.spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="Nasional",RCTI Sport 2
-https://login.spmid.pw:443/play/qO0vmq6rLeAaqOd4crQEiMs5CHEMw0Q5pOtgGCOi9js8XGrf1WqAwAyKfUxYUZz3
+#EXTINF:-1 xui-id="9507" tvg-id="" tvg-name="RCTI NS" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="LOKAL NS",RCTI Sport 2
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOq0tsjGKfelImEs5PaTGjpE
 
 #EXTINF:0 tvg-logo="https://iptvsystem.my.id/img/gtv.png" group-title="Nasional",GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -286,21 +258,23 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cin
                                              MOVIES
 ========================================================================
 
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="HBO" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="MOVIEs",HBO
-https://login.spmid.pw:443/play/lE6DweyIyZmANEXnw6KNhliODdy61ZczHPqcKXePCJh3QkmaWQzE-1b_yDA8-eMv
+#EXTINF:-1 xui-id="17" tvg-id="408473" tvg-name="HBO" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk31aSIIc4QRx2nGqe-Ar67r.png" group-title="MOVIEs",HBO
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOqlj4WbVbUvZNBPpm29-bfh
 
-#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="MOVIEs",HBO HITS
-https://login.spmid.pw:443/play/lE6DweyIyZmANEXnw6KNhliODdy61ZczHPqcKXePCJjtSgW4uP29wu3ww8Y6oZuq
+#EXTINF:-1 xui-id="18" tvg-id="408470" tvg-name="HBO HITS" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk1mG65bm-bnPGLw_6bBwmxJ.png" group-title="MOVIEs",HBO HITS
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOpb9NiTD5bwKtKRnorN3U5z
 
-#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="MOVIEs",HBO SIGN
-https://login.spmid.pw:443/play/lE6DweyIyZmANEXnw6KNhliODdy61ZczHPqcKXePCJg7-tj5-9YHDGH_dE_XCWFO
+#EXTINF:-1 xui-id="19" tvg-id="408474" tvg-name="HBO SIGN" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk17GEew1ydNrFhphLtPF5z-.png" group-title="MOVIEs",HBO SIGN
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOpnFu0fiNU0imusSTig8NvR
 
-#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="MOVIEs",HBO FAMILY
-https://login.spmid.pw:443/play/lE6DweyIyZmANEXnw6KNhigNxe0HyzS4ZwD8Vn8DqIPJ-TO-p0fGDR9T5ULgRtjA
+#EXTINF:-1 xui-id="20" tvg-id="408476" tvg-name="HBO FAMILY" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk3aNYMUxOQtvIuNXCC5K_z7qHD0zQ9sUSwWE6CAJOkKVg.png" group-title="MOVIEs",HBO FAMILY
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOqLU2ZkBkPqd4JCBoCleUC4
 
-#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="MOVIEs",CINEMAX
-https://login.spmid.pw:443/play/lE6DweyIyZmANEXnw6KNhigNxe0HyzS4ZwD8Vn8DqIOv9ulqz3TnrZNlUKabHSGI
+#EXTINF:-1 xui-id="34" tvg-id="171982" tvg-name="GALAXY" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk2o2WZeLdxqK_2w862VysHW.png" group-title="MOVIEs",GALAXY
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOqFPuTsttLoQGvjOobd5Vvk
 
+#EXTINF:-1 xui-id="21" tvg-id="408472" tvg-name="CINEMAX" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk1NnNZSQOKF_jyq59mwA130.png" group-title="MOVIEs",CINEMAX
+https://spmid.pw:443/play/OScNE3c0nbupVtzWugD4Yv-0JQTZY0YxxeL5mNF_OOr2vsAc43JKUiaUfLOlz34r
 
 #EXTINF:0 tvg-logo="https://iptvsystem.my.id/img/galaxy.png" group-title="Movies",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
